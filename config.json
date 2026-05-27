@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdalidate",
+        "uuid": 4831040,
+        "checksum": "wquxkf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
